@@ -18,8 +18,11 @@ This dataset contains population data by country and year. For this task, only d
 🛠️ Tools & Libraries
 
 Python 3.x
+
 Pandas
+
 Matplotlib
+
 Install dependencies with:
 
 pip install -r requirements.txt
